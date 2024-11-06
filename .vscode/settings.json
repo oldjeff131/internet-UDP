@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "firstpage,html": "html",
+        "string.h": "c",
+        "stdio.h": "c"
+    }
+}
